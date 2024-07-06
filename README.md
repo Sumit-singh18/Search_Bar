@@ -20,6 +20,7 @@ VITE_GEO_DB_API_KEY= Your GEo DB Api Key
 PS: Adding .env file is not reccomended , I am just Pushing it to make it easy for you 
 
 # Go into your Terminal and Start the Script
-cd SearchBar
-npm i
+
+cd SearchBar ===>
+npm i ====>
 npm run dev
