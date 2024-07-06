@@ -1,0 +1,28 @@
+.App {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}
+
+form {
+  margin-bottom: 20px;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+th, td {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+th {
+  background-color: White;
+  color: black;
+}
+
+button {
+  margin: 0 5px;
+  padding: 5px 10px;
+}
