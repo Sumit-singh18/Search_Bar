@@ -18,6 +18,6 @@ VITE_GEO_DB_URL= https://wft-geo-db.p.rapidapi.com/v1/geo/cities
 VITE_GEO_DB_API_KEY= Your GEo DB Api Key
 
 # Go into your Terminal and Start the Script
-cd SearchBar
-npm i
+cd SearchBar ===>
+npm i ====>
 npm run dev
